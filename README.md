@@ -1,0 +1,1 @@
+# joomla-api-wordlist
